@@ -62,5 +62,5 @@
 <br/>
 
 <p align="center">
-  <a href="#" alt="mukesh's github stats"><img src="https://github-readme-stats.vercel.app/api?username=iammukeshm" /></a>
+  <a href="#" alt="fister's github stats"><img src="https://github-readme-stats.vercel.app/api?username=iamfister" /></a>
 </p>
