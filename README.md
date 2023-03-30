@@ -2,13 +2,13 @@
 
 <p align="center"> 
  <a href="https://twitter.com/fistergutierrez" alt="fistergutierrez twitter">
-   <img src="https://img.shields.io/badge/-@iammukeshm-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+   <img src="https://img.shields.io/badge/-@fistergutierrez-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
  <a href="https://github.com/iamfister" alt="fister's github">
-   <img src="https://img.shields.io/badge/-@iammukeshm-%23181717?style=flat-square&logo=github" />
+   <img src="https://img.shields.io/badge/-@iamfister-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/cristian-yair-gutierrez-9a579b195" alt="cristian yair's linkedin">
-   <img src="https://img.shields.io/badge/-iammukeshm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iammukeshm" />
+   <img src="https://img.shields.io/badge/-cristian-yair-gutierrez-9a579b195-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iammukeshm" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=iamfister&color=ff69b4&style=flat-square" />
